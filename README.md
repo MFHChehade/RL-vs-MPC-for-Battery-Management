@@ -14,7 +14,7 @@ This repository explores the application of Reinforcement Learning (RL) and Mode
     - `utils`: Utilities supporting MPC operations.
 - **RL**:
   - Implementation of RL agents and environments tailored for battery management.
-  - `main_notebook.ipynb`: Demonstrative Jupyter notebook for RL implementations.
+  - `main.py`: Implementing the RL experiment.
   - **Directories**:
     - `agents`: Definitions and implementations of RL agents.
     - `data`: Data for training and evaluating RL agents.
