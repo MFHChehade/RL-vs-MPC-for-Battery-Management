@@ -2,7 +2,8 @@
 # RL vs MPC for Battery Management
 
 ## Overview
-This repository explores the application of Reinforcement Learning (RL) and Model Predictive Control (MPC) for battery management systems. It contains separate implementations and comparative analyses of both techniques.
+This repository explores the application of Reinforcement Learning (RL) and Model Predictive Control (MPC) for battery management systems. It contains separate implementations and comparative analyses of both techniques. The full paper can be found [here](https://arxiv.org/abs/2407.15313).
+
 
 ## Repository Structure
 - **MPC**:
